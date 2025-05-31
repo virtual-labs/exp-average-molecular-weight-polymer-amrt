@@ -2,35 +2,52 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "These polymers cannot be recycled:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Thermosets",
+        "b": "Thermoplasts",
+        "c": "Elastomers",
+        "d": "All polymers"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Correct. Thermosets undergo irreversible chemical changes during curing and cannot be remelted.",
+        "b": "Incorrect. Thermoplastics can be reheated and reshaped.",
+        "c": "Partially true, but some elastomers can be reused in limited ways.",
+        "d": "Incorrect. Some polymers are recyclable."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "In general, strongest polymer group is __________.",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "All polymers",
+        "b": "Elastomers",
+        "c": "Thermoplasts",
+        "d": "Thermosets"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Incorrect. Strength varies among polymer types.",
+        "b": "Incorrect. Elastomers are flexible but not the strongest.",
+        "c": "Incorrect. Thermoplastics are moderately strong but not the strongest.",
+        "d": "Correct. Thermosets have high cross-linking, making them mechanically strong and heat resistant."
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Elastic deformation in polymers is due to _____________.",
+      "answers": {
+        "a": "Severing of Covalent bonds",
+        "b": "Straightening of molecular chains",
+        "c": "Slight adjustment of molecular chains",
+        "d": "Slippage of molecular chains"
+      },
+      "explanations": {
+        "a": "Incorrect. Severing bonds causes permanent deformation, not elastic.",
+        "b": "Incorrect. Straightening implies larger deformation than elastic.",
+        "c": "Correct. Elastic deformation occurs due to small, reversible adjustments in molecular chains.",
+        "d": "Incorrect. Slippage indicates plastic deformation."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
