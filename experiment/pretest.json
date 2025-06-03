@@ -2,36 +2,31 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Out of the four polymer types, which one is the most important commercially?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Fibers",
+        "b": "Thermoplastics",
+        "c": "Elastomers",
+        "d": "Thermosets"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Fibers are important but not the most widely used in commercial applications.",
+        "b": "Thermoplastics are the most commercially significant due to their versatility and recyclability.",
+        "c": "Elastomers are used in specific applications like tires and seals but less dominant overall.",
+        "d": "Thermosets are crucial in structural applications but not as prevalent as thermoplastics."
       },
-      "correctAnswer": "a",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Polymers are ___________ in nature",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Organic",
+        "b": "Inorganic",
+        "c": "Both of the above",
+        "d": "None of the above"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+      
       "correctAnswer": "c",
       "difficulty": "beginner"
     }
