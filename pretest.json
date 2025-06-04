@@ -1,0 +1,34 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Out of the four polymer types, which one is the most important commercially?",
+      "answers": {
+        "a": "Fibers",
+        "b": "Thermoplastics",
+        "c": "Elastomers",
+        "d": "Thermosets"
+      },
+      "explanations": {
+        "a": "Fibers are important but not the most widely used in commercial applications.",
+        "b": "Thermoplastics are the most commercially significant due to their versatility and recyclability.",
+        "c": "Elastomers are used in specific applications like tires and seals but less dominant overall.",
+        "d": "Thermosets are crucial in structural applications but not as prevalent as thermoplastics."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Polymers are ___________ in nature",
+      "answers": {
+        "a": "Organic",
+        "b": "Inorganic",
+        "c": "Both of the above",
+        "d": "None of the above"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}
