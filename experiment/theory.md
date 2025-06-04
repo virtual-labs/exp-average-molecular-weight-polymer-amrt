@@ -32,7 +32,7 @@ If we know the $K$ and $\alpha$ values for a given polymer solution the intrinsi
 
 
 <div align="center">
-  <table border="1" cellpadding="5" cellspacing="0">
+  <table>
     <thead>
       <tr>
         <th>Polymer-solvent system</th>
@@ -109,8 +109,12 @@ $$\text{Intrinsic Viscosity}=\left( \frac{\eta_{sp}}{C}\right)_{c\to 0}=\left( \
 
 or measuring intrinsic viscosity of polymer sample, solutions of known concentrations are prepared, the flow times of solvent ( $t_0$ ) and the solutions, ( $t$ ) are measured using viscometer. Double extrapolation plots of reduced viscosity against concentration and inherent viscosity against concentration is plotted by calculating the corresponding reduced viscosity and inherent viscosity. The intrinsic viscosity is given by the common ordinate intercept of these graphs.
 
-<img src="./images/figure1.jpg" alt="Figure 1" style="max-width: 400px; height: auto;"> <br>
-<img src="./images/figure2.jpg" alt="Figure 2" style="max-width: 400px; height: auto;"> 
+<div style="display: block; margin-left: auto; margin-right: auto; text-align: center; width: fit-content;">
+<img src="./images/figure1.jpg" alt="Figure 1" style="max-width: 500px; height: auto;"> <br>
+</div>
+
+<div style="display: block; margin-left: auto; margin-right: auto; text-align: center; width: fit-content;">
+<img src="./images/figure2.jpg" alt="Figure 2" style="max-width: 500px; height: auto;"> </div>
 
 
 
