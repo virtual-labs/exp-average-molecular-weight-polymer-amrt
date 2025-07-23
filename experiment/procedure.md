@@ -26,7 +26,7 @@
 
 1. Select the Polymer.
 2. Select the Solvent.
-3. Determine the Time of flow of the solvent (t0).
+3. Determine the Time of flow of the solvent ( $t_0$ ).
 4. Determine the time of flow of polymer-solvent system at different concentrations.
 5. From the concentration and time of flow, the inherent viscosity and reduced viscosity are calculated using the equations;
 
