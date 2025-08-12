@@ -1,0 +1,85 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Out of the four polymer types, which one is the most important commercially?",
+      "answers": {
+        "a": "Fibers",
+        "b": "Thermoplastics",
+        "c": "Elastomers",
+        "d": "Thermosets"
+      },
+      "explanations": {
+        "a": "Fibers are important but not the most widely used in commercial applications.",
+        "b": "Thermoplastics are the most commercially significant due to their versatility and recyclability.",
+        "c": "Elastomers are used in specific applications like tires and seals but less dominant overall.",
+        "d": "Thermosets are crucial in structural applications but not as prevalent as thermoplastics."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Polymers are ___________ in nature",
+      "answers": {
+        "a": "Organic",
+        "b": "Inorganic",
+        "c": "Both of the above",
+        "d": "None of the above"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "These polymers cannot be recycled:",
+      "answers": {
+        "a": "Thermosets",
+        "b": "Thermoplasts",
+        "c": "Elastomers",
+        "d": "All polymers"
+      },
+      "explanations": {
+        "a": "Correct. Thermosets undergo irreversible chemical changes during curing and cannot be remelted.",
+        "b": "Incorrect. Thermoplastics can be reheated and reshaped.",
+        "c": "Partially true, but some elastomers can be reused in limited ways.",
+        "d": "Incorrect. Some polymers are recyclable."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In general, strongest polymer group is __________.",
+      "answers": {
+        "a": "All polymers",
+        "b": "Elastomers",
+        "c": "Thermoplasts",
+        "d": "Thermosets"
+      },
+      "explanations": {
+        "a": "Incorrect. Strength varies among polymer types.",
+        "b": "Incorrect. Elastomers are flexible but not the strongest.",
+        "c": "Incorrect. Thermoplastics are moderately strong but not the strongest.",
+        "d": "Correct. Thermosets have high cross-linking, making them mechanically strong and heat resistant."
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Elastic deformation in polymers is due to _____________.",
+      "answers": {
+        "a": "Severing of Covalent bonds",
+        "b": "Straightening of molecular chains",
+        "c": "Slight adjustment of molecular chains",
+        "d": "Slippage of molecular chains"
+      },
+      "explanations": {
+        "a": "Incorrect. Severing bonds causes permanent deformation, not elastic.",
+        "b": "Incorrect. Straightening implies larger deformation than elastic.",
+        "c": "Correct. Elastic deformation occurs due to small, reversible adjustments in molecular chains.",
+        "d": "Incorrect. Slippage indicates plastic deformation."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}
